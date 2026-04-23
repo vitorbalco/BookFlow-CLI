@@ -39,5 +39,3 @@ cd BookFlow-CLI
 
 
 
-## Desenvolvido por Vitor Cardoso Balco | Desenvolvedor Back-end | Estudante de Sistemas de Informação
-
