@@ -36,6 +36,9 @@ Como este projeto prioriza a arquitetura lógica, os seguintes pontos foram impl
 ```Bash
 cd BookFlow-CLI
     python main.py
+```
+---
 
+ **Desenvolvido por Vitor Cardoso Balco | Estudante de Sistemas de Informação | Desenvolvedor Back-end.**
 
 
